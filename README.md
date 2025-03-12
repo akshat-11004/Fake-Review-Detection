@@ -57,7 +57,6 @@ Classification Report for SVM:
 weighted avg       0.88      0.88      0.88     14147
 
 
-Training and evaluating Logistic Regression...
 Classification Report for Logistic Regression:
               precision    recall  f1-score   support
 
