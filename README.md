@@ -35,6 +35,7 @@ My notebook follows a structured pipeline:
 4. **Evaluating performance** using standard ML metrics.
 
 ## Output of the Classification Report:
+```plaintext
 Classification Report for Naïve Bayes Classifier:
               precision    recall  f1-score   support
 
@@ -47,6 +48,7 @@ weighted avg       0.85      0.85      0.85     14147
 
 
 Classification Report for SVM:
+
               precision    recall  f1-score   support
 
           CG       0.90      0.86      0.88      7011
@@ -58,6 +60,7 @@ weighted avg       0.88      0.88      0.88     14147
 
 
 Classification Report for Logistic Regression:
+
               precision    recall  f1-score   support
 
           CG       0.87      0.85      0.86      7011
@@ -67,4 +70,5 @@ Classification Report for Logistic Regression:
    macro avg       0.87      0.87      0.87     14147
 weighted avg       0.87      0.87      0.87     14147
 
+```
 
